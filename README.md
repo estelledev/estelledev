@@ -1,40 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--d6BrpdRG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif)](https://github.com/estelledev)
 
 
-<h1 align="center"> 
-
-$${\color{blueviolet} Hi 👋, I'm \space @estelle }$$ 
-
-</h1>
-
-
-<h3 align="center"> $${\color{magenta}A \space Student \space Developer \space from \space France,}$$ </h3>
-
-<div>
-<a href="https://github.com/estelledev" target="blank">
-  
-<img align="right" alt="Coding" width="120" src="https://media1.tenor.com/m/13flCzxYfRoAAAAC/the-breach-dev.gif"></a>
-<p align="left">	
-  
-+ 🌱 I’m currently learning **Web Development**
-  
-+ 🔭 I’m currently working on [My-First-App-PhP](https://github.com/estelledev/My-First-App-PhP)
-  
-+ 👨‍💻 All of my projects are available at [estelledev](https://github.com/estelledev)
-
-<br>
-</p>
-</div>
-
-<hr>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estelledev&show_icons=true&locale=en&layout=compact" alt="estelledev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estelledev&" alt="estelledev" /></p>
-</div>
-
-<hr>
-<h3 aliegn="center"> $${\color{royalblue}Languages \space and \space Tools \space :}$$ </h3>
-<br>
 <div>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
